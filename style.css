@@ -125,7 +125,6 @@ header.masthead { justify-content: flex-end; }
   aspect-ratio: 3.14;
   position: relative;
   isolation: isolate;
-  overflow: hidden;
 }
 .lineup-glow {
   position: absolute;
